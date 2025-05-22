@@ -230,7 +230,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 ## 👤 Autor
 
 **[Marcone Silva de Brito]**
-- GitHub: [@seu-usuario](https://github.com/marconesdb)
+- GitHub: [@marconesdb](https://github.com/marconesdb)
 - LinkedIn: [Seu Perfil](https://www.linkedin.com/in/marconesb/)
 - Email: marconebritt@gmail.com
 
