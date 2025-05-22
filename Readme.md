@@ -35,16 +35,16 @@ Encontre o maior número possível de tesouros, avance pelos níveis crescentes 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/caca-tesouro-numerico.git
+git clone https://github.com/marconesdb/Jogo_em_C.git
 
 # Entre no diretório
-cd caca-tesouro-numerico
+cd Jogo_em_C
 
 # Compile o programa
-gcc -o tesouro main.c
+gcc -o jogo main.c
 
 # Execute o jogo
-./tesouro
+./Jogo_em_C
 ```
 
 ### 📱 Interface do Jogo
@@ -229,10 +229,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 
 ## 👤 Autor
 
-**[Seu Nome]**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
+**[Marcone Silva de Brito]**
+- GitHub: [@seu-usuario](https://github.com/marconesdb)
+- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/marconesb/)
+- Email: marconebritt@gmail.com
 
 ## 🙏 Agradecimentos
 
@@ -245,10 +245,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 ### 🎮 Pronto para a Aventura?
 
 ```bash
-git clone https://github.com/seu-usuario/caca-tesouro-numerico.git
-cd caca-tesouro-numerico
-gcc -o tesouro main.c
-./tesouro
+git clone https://github.com/marconesdb
+cd Jogo_em_C
+gcc -o jogo main.c
+./Jogo_em_C
 ```
 
 **Boa sorte, caçador de tesouros! Que a fortuna esteja com você! 🏴‍☠️💎**
